@@ -1,0 +1,13 @@
+# TO DO
+-> Game/Player/Skills/Burp.gd
+-> Game/Player/Skills/GraplingHook.gd
+-> Game/Player/Skills/Guitar.gd
+-> Game/Player/Skills/Jojo.gd
+-> Game/Player/Master.gd
+-> Game/Player/Puppet.gd
+-> Game/Camera.gd
+-> Game/Game.gd
+-> UI
+
+# DONE
+-> Player/Base.gd
